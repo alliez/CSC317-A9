@@ -4,6 +4,8 @@
 > 
 >     git clone --recursive https://github.com/alliez/CSC317-A9.git
 
+You also need to download eigen library using https://github.com/libigl/eigen; or from any other CSC317 assignment.
+The eigen folder should be located at the root directory of this project 
 
 Prerequisite installation
 On all platforms, we will assume you have installed cmake and a modern c++ compiler on Mac OS X¹, Linux², or Windows³.
